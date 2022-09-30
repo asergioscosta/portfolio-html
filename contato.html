@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contato</title>
+    <meta name="author" content="Augusto Sérgio">
+</head>
+
+<body>
+    <h1>Contato</h1>
+    <p>Preencha o formulário abaixo que entrarei em contato com você.</p>
+    <h2>Menu:</h2>
+    
+    <menu>
+        <nav>
+            <ol>
+                <li><a href="paginaprincipal.html">Página Principal</a></li>
+                <li><a href="sobremim.html">Sobre Mim</a></li>
+                <li><a href="formacao.html">Formação</a></li>
+                <li><a href="atuacaoprofissional.html">Atuação Profissional</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+            </ol>
+        </nav>
+    </menu>
+
+    <fieldset>
+        <legend><b>Entre em Contato!</b></legend>
+        <form action="formulario" method="post">
+            <div>
+                <label for="iptNome">Nome:</label><br>
+                <input type="nome" id="nome" name="nome" placeholder="Digite o Nome">
+            </div>
+            <div>
+                <br>
+                <label for="iptSobrenome">Sobrenome:</label><br>
+                <input type="sobrenome" id="sobrenome" name="sobrenome" placeholder="Digite o Sobrenome">
+            </div>
+            <div>
+                <br>
+                <label for="iptEmail">E-mail:</label><br>
+                <input type="email" id="email" name="email" placeholder="Digite o E-mail">
+            </div>
+            <div>
+                <br>
+                <label for="iptMensagem">Mensagem:</label><br>
+                <textarea id="iptMensagem" name="texto" rows="10" cols="21"
+                    placeholder="Digite a Mensagem"></textarea></textarea><br>
+            </div>
+            <br>
+            <label>
+                <input type="checkbox" id="fieldSubscribe" value="false" data-namelabel="iptSelecionar"
+                    aria-label="iptSelecionar">
+                Ao selecionar esta caixa, autoriza o envio de e-mails.
+            </label>
+            <br>
+            <br>
+            <input type="reset" name="bntLimpar" value="Limpar">
+            <input type="submit" name="bntEnviar" value="Enviar">
+        </form>
+    </fieldset>
+
+    <h3>Siga-me nas Redes Sociais:</h3>
+    <ul>
+        <a href="https://www.instagram.com/asergioscosta/" target="_blank" title="Instagram">
+            <img src="img/IconRedesSociais/IconInstagram.png"></a>
+        <a href="https://api.whatsapp.com/send?phone=5532998376945" target="_blank" title="Whatsapp"><img
+                src="img/IconRedesSociais/IconWhatsapp.png"></a>
+        <a href="https://www.linkedin.com/in/asergioscosta/" target="_blank" title="Linkedin"><img
+                src="img/IconRedesSociais/IconLinkedin.png"></a>
+    </ul>
+
+    <footer>
+        <div class="container text-center">
+            <small class="copyright">
+                Augusto Sérgio dos Santos Costa
+                <br>
+                augusto.costa@a.granbery.metodista.br — asergioscosta@gmail.com — (32) 99837-6945
+                <br>
+                <a href="https://www.instagram.com/asergioscosta/" target="_blank" title="instagram">Instagram</a>
+                <a href="https://api.whatsapp.com/send?phone=5532998376945" target="_blank"
+                    title="Whatsapp">Whatsapp</a>
+                <a href="https://www.linkedin.com/in/asergioscosta/" target="_blank" title="Linkedin">Linkedin</a>
+            </small>
+        </div>
+    </footer>
+
+</body>
+
+</html>
