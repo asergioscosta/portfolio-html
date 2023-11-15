@@ -69,7 +69,7 @@ Este projeto tem como objetivo o desenvolvimento de um portfólio pessoal, como 
 
 ## Acesso ao Projeto
 
-Você pode acessar os arquivos do projeto [clicando aqui](https://github.com/asergioscosta/portfolio) ou [baixá-lo como um arquivo zip](https://github.com/asergioscosta/portfolio/archive/refs/heads/main.zip).
+Você pode acessar os arquivos do projeto [clicando aqui](https://github.com/asergioscosta/portfolio-html) ou [baixá-lo como um arquivo zip](https://github.com/asergioscosta/portfolio-html/archive/refs/heads/main.zip).
 
 ## Abrir e Executar o Projeto
 
