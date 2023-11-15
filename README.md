@@ -63,7 +63,7 @@ Este projeto tem como objetivo o desenvolvimento de um portfólio pessoal, como 
 
 ## Técnicas e Tecnologias Utilizadas
 
-- **Linguagem:** ``HTML5`
+- **Linguagem:** ``HTML5``
 - **Ambiente de Desenvolvimento:** ``Visual Studio Code``
 - **Ferramentas de Controle de Versão:** ``GitHub``
 
