@@ -1,86 +1,93 @@
-# Portfólio
+# Portfolio
 
-### Índice
+### Index
 
-- [Descrição do Projeto](#descrição-do-projeto)
+- [Project Description](#project-description)
+- [Requirements](#requirements)
+- [Features](#features)
+- [Techniques and Technologies Used](#techniques-and-technologies-used)
+- [Accessing the Project](#accessing-the-project)
+- [Opening and Running the Project](#opening-and-running-the-project)
+- [Developers](#developers)
 
-- [Requisitos](#requisitos)
+## Project Description
 
-- [Funcionalidades](#funcionalidades)
+This project aims to develop a personal portfolio as part of the Web Site Development discipline at Faculdade Metodista Granbery. The portfolio aims to present information about academic background, professional experience, technological skills, and personal projects.
 
-- [Técnicas e Tecnologias Utilizadas](#técnicas-e-tecnologias-utilizadas)
+## Requirements
 
-- [Acesso ao Projeto](#acesso-ao-projeto)
+- Include images and videos.
+- Use as many HTML tags as possible, such as lists, meta, bookmark, table, div, head, body, html, i, b, strong, u, br, a, pre, img.
 
-- [Abrir e Executar o Projeto](#abrir-e-executar-o-projeto)
-
-- [Desenvolvedores](#desenvolvedores)
-
-## Descrição do Projeto
-
-Este projeto tem como objetivo o desenvolvimento de um portfólio pessoal, como parte da disciplina de Desenvolvimento de Web Site da Faculdade Metodista Granbery. O portfólio tem a finalidade de apresentar informações sobre a formação acadêmica, experiência profissional, habilidades tecnológicas e projetos pessoais.
-
-## Requisitos
-
-- Incluir imagens e vídeos.
-- Utilizar o máximo de tags HTML, como listas, meta, bookmark, table, div, head, body, html, i, b, strong, u, br, a, pre, img.
-
-## Funcionalidades
+## Features
 
 1. **Menu:**
-   - O menu deve conter links para as principais páginas.
-   - O menu deve ser exibido em todas as páginas.
+   - The menu must contain links to the main pages.
+   - The menu must be displayed on all pages.
 
-2. **Rodapé:**
-   - O rodapé deve conter links para suas redes sociais (linkedin, twitter, etc).
-   - O rodapé deve ser exibido em todas as páginas.
-   - Os links para as redes sociais devem abrir em uma nova aba do navegador.
+2. **Footer:**
+   - The footer must contain links to your social networks (LinkedIn, Twitter, etc.).
+   - The footer must be displayed on all pages.
+   - The links to social networks must open in a new browser tab.
 
-3. **Página Principal:**
-   - Página que contém aspectos relevantes da vida pessoal e profissional.
+3. **Home Page:**
+   - Page containing relevant aspects of personal and professional life.
 
-4. **Sobre Mim:**
-   - Página que conta detalhes sobre a trajetória acadêmica, profissional, e suas habilidades.
+4. **About Me:**
+   - Page detailing academic and professional trajectory, and skills.
 
-5. **Formação:**
-   - Página que apresenta a formação acadêmica e complementar.
+5. **Education:**
+   - Page presenting academic and complementary education.
 
-6. **Atuação Profissional:**
-   - Página que descreve a atuação profissional.
+6. **Professional Experience:**
+   - Page describing professional experience.
 
-7. **Contato:**
-   - Página com informações de contato pessoal.
-   - Links para redes sociais e formulário de contato por e-mail.
+7. **Contact:**
+   - Page with personal contact information.
+   - Links to social networks and email contact form.
 
-8. **Portfólio:**
-   - Página que descreve os projetos desenvolvidos pelo aluno.
-   - Informações para cada projeto: nome, descrição, imagem, link para o projeto, link para o repositório.
-   - Apresentar as tecnologias utilizadas no desenvolvimento de cada projeto, cada uma com um link para uma página de descrição técnica.
+8. **Portfolio:**
+   - Page describing projects developed by the student.
+   - Information for each project: name, description, image, link to the project, link to the repository.
+   - Present the technologies used in the development of each project, each with a link to a technical description page.
 
-9. **Descrição Tecnologia:**
-   - Página que descreve uma tecnologia específica.
-   - Informações sugeridas: nome, site oficial, definição da tecnologia, 3 prós, 3 limitações e 6 grandes projetos que utilizam a tecnologia.
+9. **Technology Description:**
+   - Page describing a specific technology.
+   - Suggested information: name, official website, technology definition, 3 pros, 3 limitations, and 6 major projects using the technology.
 
-## Técnicas e Tecnologias Utilizadas
+## Techniques and Technologies Used
 
-- **Linguagem:** ``HTML5``
-- **Ambiente de Desenvolvimento:** ``Visual Studio Code``
-- **Ferramentas de Controle de Versão:** ``GitHub``
+- **Languages Used:** ``HTML5``
+- **Development Environment:** ``Visual Studio Code``
+- **Version Control Tools:** ``Git`` and ``GitHub``
 
-## Acesso ao Projeto
+## Accessing the Project
 
-Você pode acessar os arquivos do projeto [clicando aqui](https://github.com/asergioscosta/portfolio-html) ou [baixá-lo como um arquivo zip](https://github.com/asergioscosta/portfolio-html/archive/refs/heads/main.zip).
+You can access the project files [here](https://github.com/asergioscosta/portfolio-html) or [download it as a zip file](https://github.com/asergioscosta/portfolio-html/archive/refs/heads/main.zip).
 
-## Abrir e Executar o Projeto
+## Opening and Running the Project
 
-1. Escolha uma pasta para criar o projeto. Ex.: ``d:\nome_pasta``
-2. Crie um repositório no GitHub.
-3. Clone o repositório usando o comando ``git clone <URL_do_repositorio>``.
-4. Abra o Visual Studio Code;
-5. No menu principal, selecione "File" -> "Open Folder" e navegue até o diretório onde você baixou o projeto;
-6. Selecione a pasta do projeto e clique em "Open";
-7. Crie as aplicações do projeto e os códigos.
+To open and run the project locally on your computer, follow the steps below:
 
-## Desenvolvedores
+1. Choose or create a folder on your computer where you want to store the project.
+2. Create a repository on GitHub or use an existing one.
+3. Clone the repository to your local machine using the command git clone <URL_of_the_repository> in your terminal or Git Bash.
+4. Make sure you have Visual Studio Code installed on your computer. If not, you can download it [here](https://code.visualstudio.com/).
+5. Open Visual Studio Code.
+6. In the main menu, select "File" -> "Open Folder" and navigate to the directory where you cloned the project.
+7. Select the project folder and click "Open".
+8. Now you have access to the project files in your development environment.
+9. Locate the folder named `portfolio`.
+10. Inside the project folder, you will find the HTML and CSS files that make up the portfolio.
+11. Now you can make modifications to the project.
+12. To view the project, simply open the main HTML file in your web browser. To do this, right-click on the main HTML file (`index.html`) and select "Open with" and choose your preferred browser.
+13. After opening the HTML file in the browser, you can navigate through the portfolio and test its features.
+14. If you wish to make modifications to the code, you can do so in the HTML and CSS files using Visual Studio Code.
+15. After making the desired changes, save the files and refresh the page in the browser to see the changes in action.
+16. Once you have completed your modifications and tests, you can upload the changed code to GitHub following the Git instructions.
+
+Make sure your development environment settings, such as Git and Visual Studio Code installation, are correctly configured and updated.
+
+## Developers
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/102989796?v=4" width=115>](https://github.com/asergioscosta)
