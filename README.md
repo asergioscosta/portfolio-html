@@ -63,7 +63,7 @@ This project aims to develop a personal portfolio as part of the Web Site Develo
 
 ## Accessing the Project
 
-You can access the project files [here](https://github.com/asergioscosta/portfolio-html) or [download it as a zip file](https://github.com/asergioscosta/portfolio-html/archive/refs/heads/main.zip).
+You can access the project files [here](https://github.com/asergioscosta/portfolio-html/tree/main/portfolio) or [download it as a zip file](https://github.com/asergioscosta/portfolio-html/archive/refs/heads/main.zip).
 
 ## Opening and Running the Project
 
