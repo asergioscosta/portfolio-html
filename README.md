@@ -78,7 +78,7 @@ To open and run the project locally on your computer, follow the steps below:
 7. Select the project folder and click "Open".
 8. Now you have access to the project files in your development environment.
 9. Locate the folder named `portfolio`.
-10. Inside the project folder, you will find the HTML and CSS files that make up the portfolio.
+10. Inside the project folder, you will find the HTML files that make up the portfolio.
 11. Now you can make modifications to the project.
 12. To view the project, simply open the main HTML file in your web browser. To do this, right-click on the main HTML file (`index.html`) and select "Open with" and choose your preferred browser.
 13. After opening the HTML file in the browser, you can navigate through the portfolio and test its features.
