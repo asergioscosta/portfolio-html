@@ -82,7 +82,7 @@ To open and run the project locally on your computer, follow the steps below:
 11. Now you can make modifications to the project.
 12. To view the project, simply open the main HTML file in your web browser. To do this, right-click on the main HTML file (`index.html`) and select "Open with" and choose your preferred browser.
 13. After opening the HTML file in the browser, you can navigate through the portfolio and test its features.
-14. If you wish to make modifications to the code, you can do so in the HTML and CSS files using Visual Studio Code.
+14. If you wish to make modifications to the code, you can do so in the HTML files using Visual Studio Code.
 15. After making the desired changes, save the files and refresh the page in the browser to see the changes in action.
 16. Once you have completed your modifications and tests, you can upload the changed code to GitHub following the Git instructions.
 
